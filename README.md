@@ -5,8 +5,11 @@ The Instagram Ads Performance Tracking Dashboard is an advanced digital marketin
 The goal of this project is to help marketing teams answer key business questions, including:
 
 Q1. Which age groups and genders respond best to ads?
+
 Q2. Which campaigns produce the highest conversions and lowest CPA?
+
 Q3. When do ads perform best — weekdays, weekends, or specific dates?
+
 Q4. How can we optimize future Instagram ad spending?
 
 ## Objectives
