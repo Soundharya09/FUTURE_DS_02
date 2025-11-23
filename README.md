@@ -21,7 +21,7 @@ This project aims to:
 - Present insights using storytelling, visual analytics, and Power BI techniques.
 
 ## Dataset
-- The project is based on simulated or exported data from Instagram/Facebook Ads Manager.
+- The project is based on simulated or exported data from Instagram Ads Manager.
 - Dataset Includes:
     - Date, Campaign ID, Age Group, Gender
     - Impressions, Clicks, Conversions, Approved Conversions
